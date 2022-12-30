@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charbelalazzi
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning computer science
+- 👀 I’m interested in backend development 
+- 🌱 I’m currently learning nestjs
 
 
 <!---
